@@ -1,4 +1,4 @@
-# Data-Cleaning-Analysis-for-WPA-2026-
+# Data-Cleaning-Analysis-for-WPA-2026
 # Human or AI: Accuracy, Confidence and Perceptions amongst Students and Faculty
 
 Analysis pipeline for a survey study on how accurately students and faculty
