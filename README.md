@@ -6,8 +6,11 @@ at Golden West College distinguish AI-generated from human-generated text
 and images, and their attitudes toward AI use in academic work.
 
 **Authors:** Tri Nguyen, Kristen Tran, Amy Jennings, Ed.D.
+
 **Institution:** Golden West College, Huntington Beach, CA
+
 **Poster:** [`docs/poster.pdf`](https://docs.google.com/presentation/d/1ZabgET3PYoMdP_lYIQTYg7lbckrEAw4UEtc_luUevPM/edit?usp=sharing)
+
 **Presentation Link:** [`WPA Programming`](https://www.xcdsystem.com/wpa/program/2EImDBQ/index.cfm)
 
 Data analysis code (`clean_data.py`, `score_and_analyze.py`) was written by
