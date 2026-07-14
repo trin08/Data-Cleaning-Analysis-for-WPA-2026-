@@ -7,7 +7,7 @@ and images, and their attitudes toward AI use in academic work.
 
 **Authors:** Tri Nguyen, Kristen Tran, Amy Jennings, Ed.D.
 **Institution:** Golden West College, Huntington Beach, CA
-**Poster:** [`docs/poster.pdf`]([docs/poster.pdf](https://docs.google.com/presentation/d/1ZabgET3PYoMdP_lYIQTYg7lbckrEAw4UEtc_luUevPM/edit?usp=sharing))
+**Poster:** [`docs/poster.pdf`](https://docs.google.com/presentation/d/1ZabgET3PYoMdP_lYIQTYg7lbckrEAw4UEtc_luUevPM/edit?usp=sharing)
 
 Data analysis code (`clean_data.py`, `score_and_analyze.py`) was written by
 Tri Nguyen.
